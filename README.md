@@ -21,4 +21,7 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Gutenberg HTML Edits
+=================
 
+In each of my Gutenberg HTML files I only deleted the CSS they had in the HTML file and replaced the style declaration line with a line pointing to my style file.
