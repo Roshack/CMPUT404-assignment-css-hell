@@ -83,6 +83,19 @@ body {
 	bottom: 0;
 	overflow: auto;
 }
+
+#contact {
+	font-family: "Lucida Console";
+	color: white;	
+	font-size: 150%;
+}
+
+#contact-title {
+	postion: relative;
+	left: 50%;
+
+}
+
 .circular {
 	position: relative;
 	background-repeat: no-repeat;
@@ -95,4 +108,5 @@ body {
 	transform: translateY(-50%);
 	background: url("me.jpg") no-repeat;
 }
+
 
